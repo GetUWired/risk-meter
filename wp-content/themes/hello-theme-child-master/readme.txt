@@ -1,3 +1,5 @@
+Extension of Base of Hello Elementor Child Theme
+
 === Hello Elementor Child ===
 
 Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
